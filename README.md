@@ -17,8 +17,6 @@ To get a local copy up and running follow these simple example steps.
 
 ## Getting Started
 
-[Getting Started Guide](https://webpack.js.org/guides/getting-started/#basic-setup)
-
 ### Prerequisites
 
 To run this app on your local computer you need the browser (Google Chrome is the best)
